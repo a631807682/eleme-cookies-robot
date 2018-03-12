@@ -33,4 +33,4 @@ node index
    仅当做一次性的辅助工具
 
 ## 用途
-替换项目https://github.com/game-helper/hongbao中饿了么cookie搭建自己的红包私服
+替换项目https://github.com/game-helper/hongbao 中饿了么cookie搭建自己的红包私服
