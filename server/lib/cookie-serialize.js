@@ -1,0 +1,1 @@
+module.exports = cookieJson => Object.keys(cookieJson).map(key => key + '=' + encodeURIComponent(cookieJson[key])).join('; ');

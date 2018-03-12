@@ -1,0 +1,15 @@
+{
+  "name": "ele-cookie-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "log4js": "^2.5.3",
+    "puppeteer": "^1.1.1"
+  }
+}
