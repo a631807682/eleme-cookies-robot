@@ -1,6 +1,8 @@
 # eleme-cookies-robot
 
-# 目录
+用于配合[红包项目](https://github.com/game-helper/hongbao) 搭建抢红包私服
 
-[红包提取](/server)
+### 目录
+
+[cookie提取服务](/server)
 
